@@ -1,3 +1,4 @@
+name: Issue Test
 on:
   issues:
     types: [opened]
